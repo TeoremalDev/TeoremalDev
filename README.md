@@ -8,6 +8,8 @@
 - 🌐 Owner of DragonStudio Site.
 - 🤝 Partner and support team member at Teramont.net.
 
+---
+
 ### Links: 
 
 [<img align="left" alt="ZCrowDev | SpigotMC" width="40px" src="https://imgur.com/ju8tS8T.png" style="padding-right:1rem;"/>][spigotmc]
@@ -17,7 +19,8 @@
 [<img align="left" alt="ZCrowDev | BuiltByBit" width="40px" src="https://imgur.com/IJ7iVRD.png" style="padding-right:1rem;"/>][builtbybit]
 [<img align="left" alt="ZCrowDev | Twitter / X" width="40px" src="https://imgur.com/mHYJCUK.png" style="padding-right:1rem;"/>][twitter]
 
-<br />
+### ㅤ
+---
 
 ### Languages and Tools:
 
