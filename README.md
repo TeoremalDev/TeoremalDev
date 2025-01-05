@@ -52,7 +52,7 @@
 ### 🌟 Featured Projects
 
 - [Minecraft Plugin Development](https://www.spigotmc.org/resources/authors/zxyretrohackyxz.1571934/)
-- [Discord Bot Development](https://discord.gg/f5TmSrPExp)
+- [Discord Bot Development](https://discord.gg/https://discord.dragonstudio.site)
 
 ---
 
