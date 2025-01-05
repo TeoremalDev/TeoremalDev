@@ -2,7 +2,7 @@
 
 ## Passionate Developer 💻
 
-- 🔭 I’m currently working on: [DragonStudio Site][https://discord.dragonstudio.site] and [Teramont Host][teramont]!
+- 🔭 I’m currently working on: [DragonStudio Site](https://discord.dragonstudio.site) and [Teramont Host][teramont]!
 - 🌱 Constantly learning and improving in: Java, Kotlin, JavaScript, TypeScript, PHP, and Python.
 - 🎮 Fun fact: I'm a huge fan of Gears of War and Assassin's Creed series.
 - 🌐 Owner of DragonStudio Site.
