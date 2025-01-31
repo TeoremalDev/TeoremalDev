@@ -2,11 +2,11 @@
 
 ## Passionate Developer 💻
 
-- 🔭 I’m currently working on: [DragonStudio Site](https://discord.dragonstudio.site) and [Teramont Host][teramont]!
+- 🔭 I’m currently working on: [FruitForge Studios](https://fruitforge.com/discord) and [Teramont Host][teramont]!
 - 🌱 Constantly learning and improving in: Java, Kotlin, JavaScript, TypeScript, PHP, and Python.
 - 🎮 Fun fact: I'm a huge fan of Gears of War and Assassin's Creed series.
-- 🌐 Owner of DragonStudio Site.
-- 🤝 Partner and support team member at Teramont.net.
+- 🌐 CEO & Owner - FruitForge
+- 🤝 Partner and support team member at Teramont.net
 
 ---
 
@@ -43,7 +43,7 @@
 <details>
   <summary>:zap: Click to see my stats</summary>
 
-  <img align="left" alt="ZCrowDev's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ZxyretrohackyxZ&show_icons=true&hide_border=true&theme=cobalt" />
+  <img align="left" alt="ZCrowDev's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=TeoremalDev&show_icons=true&hide_border=true&theme=cobalt" />
 
 </details>
 
@@ -52,7 +52,7 @@
 ### 🌟 Featured Projects
 
 - [Minecraft Plugin Development](https://www.spigotmc.org/resources/authors/zxyretrohackyxz.1571934/)
-- [Discord Bot Development](https://discord.gg/https://discord.dragonstudio.site)
+- [Discord Bot Development](https://discord.gg/https://fruitforge.com/discord)
 
 ---
 
