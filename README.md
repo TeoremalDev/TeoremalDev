@@ -2,7 +2,7 @@
 
 **Passionate Developer**  
 CEO & Owner at **FruitForge**  
-Partner at **Teramont.net**
+Partner & Support at **Teramont.net**
 
 ---
 
@@ -70,7 +70,7 @@ Below are some of the technologies I work with:
 ## 🏆 Achievements
 
 - **CEO of FruitForge**
-- **Partner at Teramont.net**
+- **Partner & Support at Teramont.net**
 
 ---
 
