@@ -27,30 +27,42 @@ Below are some of the technologies I work with:
 <table>
   <tr>
     <td align="center">
-      <img src="https://imgur.com/8kEZ2Vp.png" alt="Java" width="80"/><br>
+      <img src="https://imgur.com/9q2kKhW.png" alt="Java" width="80"/><br>
       <sub>Java</sub>
     </td>
     <td align="center">
-      <img src="https://imgur.com/o7yLx6i.png" alt="JavaScript" width="80"/><br>
+      <img src="https://imgur.com/ilHyXOd.png" alt="JavaScript" width="80"/><br>
       <sub>JavaScript</sub>
     </td>
     <td align="center">
-      <img src="https://imgur.com/Ul0garr.png" alt="Kotlin" width="80"/><br>
+      <img src="https://imgur.com/DAHYqPt.png" alt="Kotlin" width="80"/><br>
       <sub>Kotlin</sub>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://imgur.com/M3LRn7Y.png" alt="PHP" width="80"/><br>
+      <img src="https://imgur.com/xxNE2Pc.png" alt="PHP" width="80"/><br>
       <sub>PHP</sub>
     </td>
     <td align="center">
-      <img src="https://imgur.com/6rpQB3b.png" alt="Python" width="80"/><br>
+      <img src="https://imgur.com/dC4CgNr.png" alt="Python" width="80"/><br>
       <sub>Python</sub>
     </td>
     <td align="center">
-      <img src="https://imgur.com/Okok6OA.png" alt="TypeScript" width="80"/><br>
+      <img src="https://imgur.com/McgWlm8.png" alt="TypeScript" width="80"/><br>
       <sub>TypeScript</sub>
+    </td>
+    <td align="center">
+      <img src="https://imgur.com/McgWlm8.png" alt="C" width="80"/><br>
+      <sub>C</sub>
+    </td>
+    <td align="center">
+      <img src="https://imgur.com/McgWlm8.png" alt="C" width="80"/><br>
+      <sub>C</sub>
+    </td>
+    <td align="center">
+      <img src="https://imgur.com/Gaova6F.png" alt="CSharp" width="80"/><br>
+      <sub>CSharp</sub>
     </td>
   </tr>
 </table>
