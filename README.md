@@ -38,6 +38,10 @@ Below are some of the technologies I work with:
       <img src="https://imgur.com/DAHYqPt.png" alt="Kotlin" width="80"/><br>
       <sub>Kotlin</sub>
     </td>
+    <td align="center">
+      <img src="https://imgur.com/JYFI9ug.png" alt="C" width="80"/><br>
+      <sub>C</sub>
+    </td>
   </tr>
   <tr>
     <td align="center">
@@ -51,14 +55,6 @@ Below are some of the technologies I work with:
     <td align="center">
       <img src="https://imgur.com/McgWlm8.png" alt="TypeScript" width="80"/><br>
       <sub>TypeScript</sub>
-    </td>
-    <td align="center">
-      <img src="https://imgur.com/McgWlm8.png" alt="C" width="80"/><br>
-      <sub>C</sub>
-    </td>
-    <td align="center">
-      <img src="https://imgur.com/McgWlm8.png" alt="C" width="80"/><br>
-      <sub>C</sub>
     </td>
     <td align="center">
       <img src="https://imgur.com/Gaova6F.png" alt="CSharp" width="80"/><br>
