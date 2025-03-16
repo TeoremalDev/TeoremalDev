@@ -83,7 +83,7 @@ Passionate about creating innovative solutions in the Minecraft ecosystem and so
 | **[CocoVaults](https://www.spigotmc.org/resources/116965/)** | Multi-server vault system with MySQL/MariaDB support 
 | **[LimeCollections](https://www.spigotmc.org/resources/123139/)** | Custom collection system with rewards |
 | **[DS Ads Ultimate](https://www.spigotmc.org/resources/113438/)** | Advanced multi-format advertising system | ★ 2500+ |
-| **[OrangeWhitelist](https://www.spigotmc.org/resources/116656/)** | Smart whitelist with Discord verification | ★ 650+ |
+| **[OrangeWhitelist](https://www.spigotmc.org/resources/116656/)** | Smart whitelist with Discord verification | ★ 400+ |
 
 ---
 
