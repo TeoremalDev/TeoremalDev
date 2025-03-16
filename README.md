@@ -102,16 +102,14 @@ Passionate about creating innovative solutions in the Minecraft ecosystem and so
 
 ## 🌐 Platforms & Collaborations
 
-[![SpigotMC](https://img.shields.io/badge/SpigotMC-§3-EF2D5E?logo=spigotmc)](https://www.spigotmc.org/resources/authors/zxyretrohackyxz.1571934/)
-[![Modrinth](https://img.shields.io/badge/Modrinth-00AF5C?logo=modrinth)](https://modrinth.com/user/TeoremalDev)
-[![Teramont](https://img.shields.io/badge/Teramont_Host-Partner-9F00FF)](https://teramont.net)
-[![Velta Studios](https://img.shields.io/badge/Velta_Studios-Freelancer-FF6B6B)](https://veltastudios.com)
+[![SpigotMC](https://img.shields.io/badge/SpigotMC-TeoremalDev-EF2D5E?logo=spigotmc)](https://www.spigotmc.org/resources/authors/zxyretrohackyxz.1571934/)
+[![Modrinth](https://img.shields.io/badge/Modrinth-TeoremalDev-FFFFFF?logo=modrinth)](https://modrinth.com/user/TeoremalDev)
 
 ---
 
 ## 📞 Contact & Community
 
-[![Discord](https://img.shields.io/badge/Join_My_Discord-5865F2?logo=discord)](https://fruitforge.com/discord)
+[![Discord](https://img.shields.io/badge/Join_My_Discord-FFFFFF?logo=discord)](https://fruitforge.com/discord)
 [![Twitter](https://img.shields.io/badge/Follow_on_X-000000?logo=twitter)](https://x.com/TeoremalDev)
 [![Email](https://img.shields.io/badge/Professional_Contact-D14836?logo=gmail)](mailto:teoremaldev@gmail.com)
 
